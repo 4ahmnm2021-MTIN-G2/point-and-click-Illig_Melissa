@@ -35,4 +35,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/ReagenzglaeserRewardScene.unity
     guid: 296614ab9e8f5437d8080fdf8a2a6c61
+  - enabled: 1
+    path: Assets/Scenes/WinScene.unity
+    guid: 01a16352fe2ad4ebe9c2c962e1f65330
   m_configObjects: {}
