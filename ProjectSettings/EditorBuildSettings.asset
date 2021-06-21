@@ -20,4 +20,19 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Vorgeschichte.unity
     guid: 4c67269cc568f485b8653a567860791a
+  - enabled: 1
+    path: Assets/Scenes/Reagenzglaeser.unity
+    guid: 96a17bf22166b4249824282fe6ac4ce7
+  - enabled: 1
+    path: Assets/Scenes/Mikroskop.unity
+    guid: e02521bd98249416eac3e27987eaa500
+  - enabled: 1
+    path: Assets/Scenes/MikroskopRewardScene.unity
+    guid: db38e69af68514392815fc328cc06feb
+  - enabled: 1
+    path: Assets/Scenes/SchubladeRewardScene.unity
+    guid: ffc2dcccdd0f6459c8499eabe0ffc86c
+  - enabled: 1
+    path: Assets/Scenes/ReagenzglaeserRewardScene.unity
+    guid: 296614ab9e8f5437d8080fdf8a2a6c61
   m_configObjects: {}
