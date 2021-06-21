@@ -1783,7 +1783,7 @@ MonoBehaviour:
     m_VerticalOverflow: 0
     m_LineSpacing: 1
   m_Text: "Mische die blaue Fl\xFCssigkeit mit der Fl\xFCssigkeit, die die Komplement\xE4rfarbe
-    von Blau hat!"
+    von Blau hat! (darauf klicken)"
 --- !u!222 &2080960623
 CanvasRenderer:
   m_ObjectHideFlags: 0
