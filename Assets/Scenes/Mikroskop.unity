@@ -1588,7 +1588,7 @@ GameObject:
   - component: {fileID: 1164431606}
   - component: {fileID: 1164431605}
   m_Layer: 0
-  m_Name: Manager
+  m_Name: Riddle
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
