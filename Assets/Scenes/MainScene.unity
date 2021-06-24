@@ -1564,7 +1564,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 1255eebbdb6d44eb8b5635ce18dec6c1, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 113f520887d7249129b55276f8eeed34, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -1883,6 +1883,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2127163032}
+  - component: {fileID: 2127163031}
   m_Layer: 0
   m_Name: Manager
   m_TagString: Untagged
@@ -1890,6 +1891,18 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!114 &2127163031
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2127163030}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9186c39c53d4c47ecb536a8c6e64bd7e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!4 &2127163032
 Transform:
   m_ObjectHideFlags: 0
