@@ -1,9 +1,12 @@
-﻿using System.Collections;
+﻿
+using System;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Events;
 using UnityEngine.SceneManagement;
 
-public class Manager : MonoBehaviour
+public class Riddle2 : MonoBehaviour
 {
 
     public bool condition1 { get; set; }
@@ -16,8 +19,8 @@ public class Manager : MonoBehaviour
     {
         if (condition3 == true)
         {
-            Debug.Log("You won!!!");
-            SceneManager.LoadScene("WinScene");
+            Debug.Log("You solved the riddle");
+            SceneManager.LoadScene("SchubladeRewardScene");
         }
 
 

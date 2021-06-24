@@ -6,21 +6,20 @@ using UnityEngine;
 using UnityEngine.Events;
 using UnityEngine.SceneManagement;
 
-public class Manager2 : MonoBehaviour
+public class Riddle3 : MonoBehaviour
 {
 
     public bool condition1 { get; set; }
     public bool condition2 { get; set; }
-    public bool condition3 { get; set; }
 
 
     // Update is called once per frame
     void Update()
     {
-        if (condition3 == true)
+        if (condition2 == true)
         {
-            Debug.Log("You won!!!");
-            SceneManager.LoadScene("SchubladeRewardScene");
+            Debug.Log("You solved the Riddle!!!");
+            SceneManager.LoadScene("ReagenzglaeserRewardScene");
         }
 
 
